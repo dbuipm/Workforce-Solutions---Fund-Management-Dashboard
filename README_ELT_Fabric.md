@@ -494,6 +494,10 @@ For this dashboard, **Import mode with scheduled refresh** is recommended. Fund 
 
 ---
 
+The semantic model, DAX measures, and dashboard design are identical to the live connection version — see README_LiveConnection.md for full documentation.
+
+
+
 ## Design Decisions
 
 ### ELT not ETL
