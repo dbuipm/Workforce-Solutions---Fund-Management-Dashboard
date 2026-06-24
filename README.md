@@ -1,6 +1,6 @@
 # Workforce Solutions — Fund Management Dashboard
 
-Power BI dashboard tracking $13.5M in workforce development funds across 13+ federal and state programs for Workforce Solutions Gulf Coast.
+Power BI dashboard tracking $103.5M in workforce development funds across 13+ federal and state programs for Workforce Solutions Gulf Coast.
 
 This repo documents two approaches to the same dashboard:
 
